@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "756271360646",
+    "project_id": "union-4df98",
+    "storage_bucket": "union-4df98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756271360646:android:f52950b92e286daa403f07",
+        "android_client_info": {
+          "package_name": "com.unioncompany.union"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756271360646-s6h3ud9423ap6o7755ok4uevc5ih43al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unioncompany.union",
+            "certificate_hash": "101a9b464ae2541752c1d40f73ea2fe7b50f237a"
+          }
+        },
+        {
+          "client_id": "756271360646-vl3jsslg5coqbcutmpnrjbnngo9n6t15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1oPHst97drVfNcGFd0-xkZvSDYEbziT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756271360646-075s5mamiitpfb0umlea5ed28tkp4bim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
